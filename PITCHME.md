@@ -1,18 +1,25 @@
 ### 今回作るエフェクト
 
-<img src = "images/final.mp4">
+<img src = "images/final.mp4"><br>
+
+
 
 
 ---
 
-### 2nd slide
+### 2nd Slide
 
-+++
+<img src = "images/1.jpg">
 
-### 3rd slide
 
 ---
 
-### 4th slide
+### 3rd Slide
 
-+++
+---
+
+### 4th Slide
+
+---
+
+### Final Slide
