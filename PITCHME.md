@@ -1,15 +1,15 @@
 ### 今回作るエフェクト
 
-<img src = "images/final.mp4"><br>
 
-
+![](images/final.mp4)
 
 
 ---
 
 ### 2nd Slide
 
-<img src = "images/1.jpg">
+
+![](images/1.jpg)
 
 
 ---
